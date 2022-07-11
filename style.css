@@ -1,0 +1,78 @@
+.div-headers-parent {
+  display: block;
+  background-color: orange;
+  padding: 20px;
+}
+.div-headers-child {
+  display: inline;
+}
+
+.h1-headers {
+  font-size: 40px;
+  display: inline;
+}
+
+.a-headers {
+  font-size: 20px;
+}
+
+a:link,
+a:visited {
+  background-color: black;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover,
+a:active {
+  background-color: black;
+}
+
+.button-headers {
+  color: white;
+  background-color: black;
+  padding: 10px 10px;
+  text-align: center;
+  border-color: black;
+  font-size: 20px;
+}
+
+button:active {
+  color: white;
+}
+
+form {
+  display: inline;
+}
+
+.input-headers {
+  font-size: 20px;
+  color: black;
+}
+
+body {
+  background-color: gray;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+.para {
+  font-size: 20px;
+  color: wheat;
+  width: 500px;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.background-image {
+  background-image: url("./assets/laptop.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
